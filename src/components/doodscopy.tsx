@@ -39,6 +39,14 @@ export default function BasicGrid() {
 
 
 </ h2>    
+
+<a href=" https://trello.com/goodgoodgivingclub" target="blank" style={{ color: "#a8cfe5", display: "flex", justifyContent: "left", textAlign: "justify", fontSize:"18px" }}>
+
+Read our whitepaper
+    
+
+
+</ a>    
           </Item>
         </Grid>
         <Grid item xs={12} md={6} lg= {3}>

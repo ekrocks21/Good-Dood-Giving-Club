@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30ca30f6.chunk.css",
+    "main.js": "/static/js/main.fc55c696.chunk.js",
+    "main.js.map": "/static/js/main.fc55c696.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b2fd5cdb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b2fd5cdb.js.map",
+    "static/js/2.7a83b74d.chunk.js": "/static/js/2.7a83b74d.chunk.js",
+    "static/js/2.7a83b74d.chunk.js.map": "/static/js/2.7a83b74d.chunk.js.map",
+    "static/js/3.0a1a3738.chunk.js": "/static/js/3.0a1a3738.chunk.js",
+    "static/js/3.0a1a3738.chunk.js.map": "/static/js/3.0a1a3738.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.30ca30f6.chunk.css.map": "/static/css/main.30ca30f6.chunk.css.map",
+    "static/js/2.7a83b74d.chunk.js.LICENSE.txt": "/static/js/2.7a83b74d.chunk.js.LICENSE.txt",
+    "static/media/1115.c7e564e5.png": "/static/media/1115.c7e564e5.png",
+    "static/media/1614.39d719c3.png": "/static/media/1614.39d719c3.png",
+    "static/media/1935.11aac803.png": "/static/media/1935.11aac803.png",
+    "static/media/1976.bace866b.png": "/static/media/1976.bace866b.png",
+    "static/media/2016.3adb22bb.png": "/static/media/2016.3adb22bb.png",
+    "static/media/2182.4d23860a.png": "/static/media/2182.4d23860a.png",
+    "static/media/2523.3c230b51.png": "/static/media/2523.3c230b51.png",
+    "static/media/2549.1fb3659d.png": "/static/media/2549.1fb3659d.png",
+    "static/media/308.e5aa99ec.png": "/static/media/308.e5aa99ec.png",
+    "static/media/4615.6c2b5211.png": "/static/media/4615.6c2b5211.png",
+    "static/media/91.6d34af43.png": "/static/media/91.6d34af43.png",
+    "static/media/Asset 6.b4f9fe9c.svg": "/static/media/Asset 6.b4f9fe9c.svg",
+    "static/media/Asset3.7f9bf489.svg": "/static/media/Asset3.7f9bf489.svg",
+    "static/media/chilldood.2d73ffc9.svg": "/static/media/chilldood.2d73ffc9.svg",
+    "static/media/cyberdood.1999e03e.png": "/static/media/cyberdood.1999e03e.png",
+    "static/media/happydood.dc3b37ab.png": "/static/media/happydood.dc3b37ab.png",
+    "static/media/portraitdood.8f679cf0.png": "/static/media/portraitdood.8f679cf0.png",
+    "static/media/surferdood.6ed72a2d.png": "/static/media/surferdood.6ed72a2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2fd5cdb.js",
+    "static/js/2.7a83b74d.chunk.js",
+    "static/css/main.30ca30f6.chunk.css",
+    "static/js/main.fc55c696.chunk.js"
+  ]
+}

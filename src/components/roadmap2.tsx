@@ -37,11 +37,11 @@ const rows = [
   createData( 14, 'Sell out Mint ', 'In Progress' ),
   createData( 15, 'Procure Products from Brands ', 'Dependent on #7' ),
   createData( 16, 'Plan and Execute Operation Giving Day ', 'In Progress' ),
-  createData( 17, 'Transfer Research Grant to St Jude ', 'In Progress' ),
+  createData( 17, 'Transfer Research Grant to St Jude ', 'Dependent on #7' ),
   createData( 18, 'Form Partnership with Brands ', 'Need Support' ),
   createData( 19, 'Determine Democratized Giving Model', 'Open for Feedback' ),
   createData( 20, 'Create Collection #01 Art Concept', 'Not Started' ),
-  createData( 21, 'Partner with a High Profile Designer ', 'Search Started' ),
+  createData( 21, 'Partner with an actual NFT Designer ', 'Search Started' ),
   createData( 22, 'Design and Launch Good Dood Collection #01 - TBD ', 'Need Support' ),
   createData( 23, '? ', '?' ),
 ];
